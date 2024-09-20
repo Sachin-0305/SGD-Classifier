@@ -20,7 +20,7 @@ STEP 4.Make Predictions and Evaluate Accuracy
 STEP 5.Generate Confusion Matrix
 
 END
-Program:
+
 ## Program:
 ```
 /*
